@@ -21,7 +21,7 @@ Running on Android is supported with a Linux or Mac OS X host. Windows is not ye
 Telemetry requires adb. If you're running from the zip archive, adb is already included. But if you're running with a Chromium checkout, ensure your .gclient file contains target_os = ['android'], then resync your code.
 If running from an OS X host, you need to run ADB as root. First, you need to install a "userdebug" build of Android on your device. Then run adb root. Sometimes you may also need to run adb remount.
 
-userdebug builds for android devices are also available [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/am_footprint_web/user_debug_build_images).
+userdebug builds for android devices are also available [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/tree/master/web_browser_experiments/am_footprint_web/user_debug_build_images).
 
 Enable debugging over USB on your device.
 You can get the name of your device with adb devices and use it with Telemetry via --device=<device_name>.
@@ -49,7 +49,7 @@ If it shows android-chromium as browser then you can run any benchmark on it. if
 ##### Running benchmark for memory footprint 
 To get memory footprints of websites, you first have to set website's URLs in the file of /chromium/src/tools/perf/page_sets/memory_top_10_mobile.py as a list of (link, title) tuple.
 
-URLs to [Alexa top 100 webistes](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/am_footprint_web/samples/top_100_pages) are also provided.
+URLs to [Alexa top 100 webistes](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/tree/master/web_browser_experiments/am_footprint_web/samples/top_100_pages) are also provided.
 
 To run memory benchmark, you first have to record it as a binary file using record script of telemetry by runnig:
 ```terminal
@@ -63,7 +63,7 @@ you can repeat benchmark as many times as you want by changing value of **--page
 
 The above command will create a results.csv file.
 
-To parse this csv file you can use our script availble [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/am_footprint_web/csv_parsers/mem_process_files).
+To parse this csv file you can use our script availble [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/tree/master/web_browser_experiments/am_footprint_web/csv_parsers/mem_process_files).
 
 
 ##### Running benchmark for loading times
@@ -81,4 +81,4 @@ you can repeat benchmark as many times as you want by changing value of **--page
 
 The above command will create a results.csv file.
 
-To parse this csv file you can use our script availble [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/am_footprint_web/csv_parsers/plt_process_files).
+To parse this csv file you can use our script availble [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/tree/master/web_browser_experiments/am_footprint_web/csv_parsers/plt_process_files).
