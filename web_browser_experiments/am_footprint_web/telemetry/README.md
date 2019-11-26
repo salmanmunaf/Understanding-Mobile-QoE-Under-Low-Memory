@@ -49,6 +49,8 @@ If it shows android-chromium as browser then you can run any benchmark on it. if
 ##### Running benchmark for memory footprint 
 To get memory footprints of websites, you first have to set website's URLs in the file of /chromium/src/tools/perf/page_sets/memory_top_10_mobile.py as a list of (link, title) tuple.
 
+URLs to [Alexa top 100 webistes](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/am_footprint_web/samples/top_100_pages) are also provided.
+
 To run memory benchmark, you first have to record it as a binary file using record script of telemetry by runnig:
 ```terminal
 $ ./record_wpr --browser=android-chromium  memory_top_10_mobile
