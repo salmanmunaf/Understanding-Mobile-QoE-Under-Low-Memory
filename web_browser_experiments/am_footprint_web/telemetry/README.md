@@ -63,7 +63,7 @@ you can repeat benchmark as many times as you want by changing value of **--page
 
 The above command will create a results.csv file.
 
-To parse this csv file you can use our script availble [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/tree/master/web_browser_experiments/am_footprint_web/csv_parsers/mem_process_files).
+To parse this csv file you can use our script availble [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/tree/master/web_browser_experiments/am_footprint_web/csv_parsers/mem_process_files.py).
 
 
 ##### Running benchmark for loading times
@@ -81,4 +81,4 @@ you can repeat benchmark as many times as you want by changing value of **--page
 
 The above command will create a results.csv file.
 
-To parse this csv file you can use our script availble [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/tree/master/web_browser_experiments/am_footprint_web/csv_parsers/plt_process_files).
+To parse this csv file you can use our script availble [here](https://github.com/ehsanlatif/Understanding-Mobile-QoE-Under-Low-Memory/tree/master/web_browser_experiments/am_footprint_web/csv_parsers/plt_process_files.py).
