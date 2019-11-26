@@ -1,0 +1,23 @@
+Listening on port 8333
+{u'decodedSeries': 1091, u'videoSeries': 43.583535, u'presentedSeries': 989, u'presentedTime': 1551725962368, u'decodedTime': 1551725962368, u'fpsSeries': 833, u'fpsTime': 1551725962368}
+{u'decodedSeries': 1128, u'videoSeries': 45.074983, u'presentedSeries': 1027, u'presentedTime': 1551725963876, u'decodedTime': 1551725963873, u'fpsSeries': 870, u'fpsTime': 1551725963876}
+{u'decodedSeries': 1168, u'videoSeries': 46.598206, u'presentedSeries': 1066, u'presentedTime': 1551725965453, u'decodedTime': 1551725965452, u'fpsSeries': 903, u'fpsTime': 1551725965453}
+{u'decodedSeries': 1209, u'videoSeries': 48.138567, u'presentedSeries': 1107, u'presentedTime': 1551725967096, u'decodedTime': 1551725967074, u'fpsSeries': 926, u'fpsTime': 1551725967096}
+{u'decodedSeries': 1246, u'videoSeries': 49.797408, u'presentedSeries': 1144, u'presentedTime': 1551725968574, u'decodedTime': 1551725968574, u'fpsSeries': 938, u'fpsTime': 1551725968574}
+{u'decodedSeries': 1284, u'videoSeries': 51.269841, u'presentedSeries': 1180, u'presentedTime': 1551725970075, u'decodedTime': 1551725970075, u'fpsSeries': 962, u'fpsTime': 1551725970075}
+{u'decodedSeries': 1324, u'videoSeries': 52.796389, u'presentedSeries': 1220, u'presentedTime': 1551725971683, u'decodedTime': 1551725971683, u'fpsSeries': 995, u'fpsTime': 1551725971683}
+{u'decodedSeries': 1361, u'videoSeries': 54.383081, u'presentedSeries': 1258, u'presentedTime': 1551725973186, u'decodedTime': 1551725973186, u'fpsSeries': 1026, u'fpsTime': 1551725973186}
+{u'decodedSeries': 1399, u'videoSeries': 55.902582, u'presentedSeries': 1295, u'presentedTime': 1551725974686, u'decodedTime': 1551725974686, u'fpsSeries': 1063, u'fpsTime': 1551725974686}
+{u'decodedSeries': 1436, u'videoSeries': 57.398546, u'presentedSeries': 1332, u'presentedTime': 1551725976188, u'decodedTime': 1551725976187, u'fpsSeries': 1081, u'fpsTime': 1551725976188}
+{u'decodedSeries': 1474, u'videoSeries': 58.90001, u'presentedSeries': 1369, u'presentedTime': 1551725977694, u'decodedTime': 1551725977694, u'fpsSeries': 1102, u'fpsTime': 1551725977694}
+{u'decodedSeries': 1512, u'videoSeries': 60.389611, u'presentedSeries': 1407, u'presentedTime': 1551725979194, u'decodedTime': 1551725979194, u'fpsSeries': 1136, u'fpsTime': 1551725979194}
+{u'decodedSeries': 1549, u'videoSeries': 61.907962, u'presentedSeries': 1444, u'presentedTime': 1551725980697, u'decodedTime': 1551725980696, u'fpsSeries': 1171, u'fpsTime': 1551725980697}
+{u'decodedSeries': 1587, u'videoSeries': 63.351021, u'presentedSeries': 1482, u'presentedTime': 1551725982203, u'decodedTime': 1551725982203, u'fpsSeries': 1205, u'fpsTime': 1551725982203}
+{u'decodedSeries': 1625, u'videoSeries': 64.907319, u'presentedSeries': 1520, u'presentedTime': 1551725983728, u'decodedTime': 1551725983728, u'fpsSeries': 1227, u'fpsTime': 1551725983728}
+{u'decodedSeries': 1663, u'videoSeries': 66.44, u'presentedSeries': 1556, u'presentedTime': 1551725985228, u'decodedTime': 1551725985228, u'fpsSeries': 1243, u'fpsTime': 1551725985228}
+{u'decodedSeries': 1700, u'videoSeries': 67.927967, u'presentedSeries': 1593, u'presentedTime': 1551725986729, u'decodedTime': 1551725986729, u'fpsSeries': 1282, u'fpsTime': 1551725986729}
+{u'decodedSeries': 1738, u'videoSeries': 69.419894, u'presentedSeries': 1628, u'presentedTime': 1551725988233, u'decodedTime': 1551725988232, u'fpsSeries': 1311, u'fpsTime': 1551725988233}
+{u'decodedSeries': 1775, u'videoSeries': 70.948783, u'presentedSeries': 1665, u'presentedTime': 1551725989733, u'decodedTime': 1551725989733, u'fpsSeries': 1334, u'fpsTime': 1551725989733}
+{u'decodedSeries': 1813, u'videoSeries': 72.445331, u'presentedSeries': 1703, u'presentedTime': 1551725991238, u'decodedTime': 1551725991237, u'fpsSeries': 1359, u'fpsTime': 1551725991238}
+{u'decodedSeries': 1851, u'videoSeries': 73.941501, u'presentedSeries': 1741, u'presentedTime': 1551725992747, u'decodedTime': 1551725992747, u'fpsSeries': 1387, u'fpsTime': 1551725992747}
+{u'decodedSeries': 1888, u'videoSeries': 75.463658, u'presentedSeries': 1778, u'presentedTime': 1551725994248, u'deco

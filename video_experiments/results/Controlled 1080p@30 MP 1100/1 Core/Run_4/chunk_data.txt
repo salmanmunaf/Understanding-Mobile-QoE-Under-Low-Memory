@@ -1,0 +1,12 @@
+{u'decodedSeries': 23, u'videoSeries': 0.660281, u'presentedSeries': 20, u'presentedTime': 1557668307878, u'decodedTime': 1557668307878, u'fpsSeries': 22, u'fpsTime': 1557668307878}
+{u'decodedSeries': 54, u'videoSeries': 1.633333, u'presentedSeries': 50, u'presentedTime': 1557668308879, u'decodedTime': 1557668308879, u'fpsSeries': 52, u'fpsTime': 1557668308879}
+{u'decodedSeries': 84, u'videoSeries': 2.65942, u'presentedSeries': 80, u'presentedTime': 1557668309880, u'decodedTime': 1557668309880, u'fpsSeries': 82, u'fpsTime': 1557668309880}
+{u'decodedSeries': 113, u'videoSeries': 3.640398, u'presentedSeries': 110, u'presentedTime': 1557668310891, u'decodedTime': 1557668310891, u'fpsSeries': 113, u'fpsTime': 1557668310891}
+{u'decodedSeries': 144, u'videoSeries': 4.619531, u'presentedSeries': 141, u'presentedTime': 1557668311921, u'decodedTime': 1557668311921, u'fpsSeries': 144, u'fpsTime': 1557668311921}
+{u'decodedSeries': 175, u'videoSeries': 5.711611, u'presentedSeries': 171, u'presentedTime': 1557668312921, u'decodedTime': 1557668312921, u'fpsSeries': 173, u'fpsTime': 1557668312921}
+{u'decodedSeries': 205, u'videoSeries': 6.684286, u'presentedSeries': 201, u'presentedTime': 1557668313922, u'decodedTime': 1557668313922, u'fpsSeries': 204, u'fpsTime': 1557668313922}
+{u'decodedSeries': 234, u'videoSeries': 7.699386, u'presentedSeries': 231, u'presentedTime': 1557668314922, u'decodedTime': 1557668314922, u'fpsSeries': 234, u'fpsTime': 1557668314922}
+{u'decodedSeries': 253, u'videoSeries': 8.349685, u'presentedSeries': 251, u'presentedTime': 1557668315922, u'decodedTime': 1557668315922, u'fpsSeries': 252, u'fpsTime': 1557668315922}
+{u'decodedSeries': 273, u'videoSeries': 9.066666, u'presentedSeries': 252, u'presentedTime': 1557668317364, u'decodedTime': 1557668317364, u'fpsSeries': 254, u'fpsTime': 1557668317364}
+{u'decodedSeries': 327, u'videoSeries': 10.766666, u'presentedSeries': 252, u'presentedTime': 1557668318384, u'decodedTime': 1557668318384, u'fpsSeries': 254, u'fpsTime': 1557668318384}
+

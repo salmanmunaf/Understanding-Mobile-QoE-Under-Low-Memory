@@ -1,0 +1,1 @@
+sudo /usr/sbin/apache2ctl -X

@@ -1,0 +1,13 @@
+{u'decodedSeries': 29, u'videoSeries': 0.899727, u'presentedSeries': 28, u'presentedTime': 1557665765805, u'decodedTime': 1557665765805, u'fpsSeries': 25, u'fpsTime': 1557665765805}
+{u'decodedSeries': 63, u'videoSeries': 1.966489, u'presentedSeries': 57, u'presentedTime': 1557665766823, u'decodedTime': 1557665766823, u'fpsSeries': 54, u'fpsTime': 1557665766823}
+{u'decodedSeries': 93, u'videoSeries': 2.976546, u'presentedSeries': 88, u'presentedTime': 1557665767834, u'decodedTime': 1557665767834, u'fpsSeries': 84, u'fpsTime': 1557665767834}
+{u'decodedSeries': 123, u'videoSeries': 3.973333, u'presentedSeries': 113, u'presentedTime': 1557665768845, u'decodedTime': 1557665768845, u'fpsSeries': 109, u'fpsTime': 1557665768845}
+{u'decodedSeries': 154, u'videoSeries': 4.992312, u'presentedSeries': 143, u'presentedTime': 1557665769858, u'decodedTime': 1557665769858, u'fpsSeries': 139, u'fpsTime': 1557665769858}
+{u'decodedSeries': 184, u'videoSeries': 6.010038, u'presentedSeries': 173, u'presentedTime': 1557665770859, u'decodedTime': 1557665770859, u'fpsSeries': 169, u'fpsTime': 1557665770859}
+{u'decodedSeries': 211, u'videoSeries': 6.980105, u'presentedSeries': 203, u'presentedTime': 1557665771982, u'decodedTime': 1557665771982, u'fpsSeries': 198, u'fpsTime': 1557665771982}
+{u'decodedSeries': 247, u'videoSeries': 8.132146, u'presentedSeries': 231, u'presentedTime': 1557665772987, u'decodedTime': 1557665772987, u'fpsSeries': 227, u'fpsTime': 1557665772987}
+{u'decodedSeries': 277, u'videoSeries': 9.130063, u'presentedSeries': 261, u'presentedTime': 1557665773988, u'decodedTime': 1557665773988, u'fpsSeries': 256, u'fpsTime': 1557665773988}
+{u'decodedSeries': 307, u'videoSeries': 10.128341, u'presentedSeries': 291, u'presentedTime': 1557665774987, u'decodedTime': 1557665774987, u'fpsSeries': 285, u'fpsTime': 1557665774987}
+{u'decodedSeries': 335, u'videoSeries': 11.133333, u'presentedSeries': 300, u'presentedTime': 1557665775994, u'decodedTime': 1557665775993, u'fpsSeries': 294, u'fpsTime': 1557665775994}
+{u'decodedSeries': 349, u'videoSeries': 11.633333, u'presentedSeries': 314, u'presentedTime': 1557665776991, u'decodedTime': 1557665776991, u'fpsSeries': 307, u'fpsTime': 1557665776991}
+
