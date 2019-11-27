@@ -116,8 +116,9 @@ def run(server_class=HTTPServer, port=8333, log_file_path=LOG_FILE):
                       'last_total_rebuf': last_total_rebuf}
 
         handler_class = make_request_handler(input_dict=input_dict)
+        ip = '0.0.0.0' # machine ip
 
-        server_address = ('192.168.0.101', port)
+        server_address = (ip, port)
         httpd = server_class(server_address, handler_class)
         print 'Listening on port ' + str(port)
         httpd.serve_forever()

@@ -940,8 +940,9 @@ function AbrController() {
                         }
                     }
                     var bufferLevelAdjusted = buffer-0.15-0.4-4;
+                    var ip = '';
                     var data = {'nextChunkSize': next_chunk_size(lastRequested+1), 'Type': 'Default', 'lastquality': 0, 'buffer': buffer, 'bufferAdjusted': bufferLevelAdjusted, 'bandwidthEst': bandwidthEst, 'lastRequest': lastRequested, 'RebufferTime': rebuffer, 'lastChunkFinishTime': lastHTTPRequest._tfinish.getTime(), 'lastChunkStartTime': lastHTTPRequest.tresponse.getTime(), 'lastChunkSize': last_chunk_size(lastHTTPRequest)};
-                    xhr.open("POST", "http://192.168.0.101:8333", true);
+                    xhr.open("POST", ip, true);
                     xhr.send(JSON.stringify(data));
                     return Math.max(currentValue, newValue);
                 }
